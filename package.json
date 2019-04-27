@@ -1,0 +1,16 @@
+{
+  "name": "jekit",
+  "version": "1.0.0",
+  "description": "An incredible way to show your ads on a website",
+  "main": "jekiti.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheussilvasantos/jekiti.js.git"
+  },
+  "author": "Matheus Silva Santos de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheussilvasantos/jekiti.js/issues"
+  },
+  "homepage": "https://github.com/matheussilvasantos/jekiti.js#readme"
+}
