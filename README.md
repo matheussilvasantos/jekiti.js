@@ -18,6 +18,10 @@ setInterval(function() {
 
 The code above is going to show your ad every 50 seconds during 500 milliseconds. This is not the perfect time to show your ad, it depends on your business.
 
+## Demo
+
+Access this [site](https://jekiti.matheussilva.site/) and wait 10 seconds to see the ad for 500 milliseconds: [https://jekiti.matheussilva.site/](https://jekiti.matheussilva.site/).
+
 ## How to use
 
 First of all, get the script in your site:
