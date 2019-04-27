@@ -1,8 +1,8 @@
-# jequiti.js
+# jekiti.js
 
 An incredible way to show your ads on a website
 
-## Why jequiti.js?
+## Why jekiti.js?
 
 Nowadays you must show your ads in a way that you get your users engaged. The jekiti methodology is a new way to show your ads. You show it and then you hide it. It is good because your users will be curious about it and because it will not be appearing for them all the time.
 
