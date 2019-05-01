@@ -1,11 +1,13 @@
 'use strict';
 
-var jekiti = function jekiti(ad, duration) {
+var jekiti = function jekiti(ad) {
+  var duration = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 500;
+
   try {
     var adElement = document.querySelector(ad);
     adElement.style.display = 'block';
     setTimeout(function () {
-      return adElement.style.display = 'none';
+      adElement.style.display = 'none';
     }, duration);
   } catch (error) {
     var jekitiContainerElement = document.createElement('div');
@@ -22,7 +24,7 @@ var jekiti = function jekiti(ad, duration) {
       this.parentElement.removeChild(this);
     };
     setTimeout(function () {
-      return jekitiContainerElement.remove();
+      jekitiContainerElement.remove();
     }, duration);
   }
 };

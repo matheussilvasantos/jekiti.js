@@ -32,16 +32,18 @@ First of all, get the script in your site:
 
 Then you can use it in two ways:
 
-- Passing a selector and a duration in milliseconds
+- Passing a selector and a duration in milliseconds (optional)
 
 ```
 jekiti('.your-incredible-ad', 1000)
 ```
 
-- Passing an HTML and a duration in milliseconds
+- Passing an HTML and a duration in milliseconds (optional)
 ```
 jekiti('<h1>Hi, call 12 99999-9999 to fix your car!</h1>', 1000)
 ```
+
+- The default duration is 500 milliseconds
 
 ## IE Support
 

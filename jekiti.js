@@ -1,4 +1,4 @@
-var jekiti = function(ad, duration) {
+var jekiti = function(ad, duration = 500) {
   try {
     var adElement = document.querySelector(ad);
     adElement.style.display = 'block';
