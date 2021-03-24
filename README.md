@@ -1,10 +1,10 @@
 # jekiti.js
 
-An incredible way to show your ads on a website
+An incredible way to show your ads on a website.
 
 ## Why jekiti.js?
 
-Nowadays you must show your ads in a way that you get your users engaged. The jekiti methodology is a new way to show your ads. You show it and then you hide it. It is good because your users will be curious about it and because it will not be appearing for them all the time.
+Nowadays you must show your ads in a way that get your users engaged. The jekiti methodology is a new way to show your ads. You show it and then you hide it. It is good because your users will be curious about it and because it will not be appearing for them all the time.
 
 ## Good practices
 
@@ -20,7 +20,7 @@ The code above is going to show your ad every 50 seconds during 500 milliseconds
 
 ## Demo
 
-Access this [site](https://jekiti.matheussilva.site/) and wait 10 seconds to see the ad for 500 milliseconds: [https://jekiti.matheussilva.site/](https://jekiti.matheussilva.site/).
+Access this [site](http://jekiti.s3-website-us-east-1.amazonaws.com/) and wait 10 seconds to see the ad for 500 milliseconds: [http://jekiti.s3-website-us-east-1.amazonaws.com/](http://jekiti.s3-website-us-east-1.amazonaws.com/).
 
 ## How to use
 
